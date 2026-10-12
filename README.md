@@ -1,4 +1,10 @@
-## Hi there 👋
+# 저는 이건창 입니다. 
+
+## AI 서비스 풀스택 과정입니다. 
+
+### 기술 스택***
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <!--
 **buzzlee21/buzzlee21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
