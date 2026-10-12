@@ -1,5 +1,6 @@
 # 저는 이건창 입니다. 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=이건창&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=창건이&fontSize=120)
 
 ## AI 서비스 풀스택 과정입니다. 
 
